@@ -31,15 +31,17 @@ namespace STAN.Client
         /// </remarks>
         /// <param name="data">The message payload.</param>
         /// <param name="redelivered">True if the message may have been redelivered.</param>
+        /// <param name="redeliveryCount">Redelivery count.</param>
         /// <param name="subject">Subject of the message</param>
         /// <param name="timestamp">Message timestamp, nanoseconds since epoch (1/1/1970)</param>
         /// <param name="sequence">Sequence number of the message.</param>
         /// <param name="subscription">Subscription of the message.  Must be a valid streaming subscription or null.</param>
-        public StanMsg(byte[] data, bool redelivered, string subject, long timestamp, ulong sequence, IStanSubscription subscription)
+        public StanMsg(byte[] data, bool redelivered, uint redeliveryCount, string subject, long timestamp, ulong sequence, IStanSubscription subscription)
         {
             proto = new MsgProto();
             proto.Data = Google.Protobuf.ByteString.CopyFrom(data);
             proto.Redelivered = redelivered;
+            proto.RedeliveryCount = redeliveryCount;
             proto.Subject = subject;
             proto.Sequence = sequence;
             proto.Timestamp = timestamp;
@@ -130,6 +132,14 @@ namespace STAN.Client
         public bool Redelivered
         {
             get { return proto.Redelivered; }
+        }
+
+        /// <summary>
+        /// The redeliveryCount property.
+        /// </summary>
+        public uint RedeliveryCount
+        {
+            get { return proto.RedeliveryCount; }
         }
 
         /// <summary>

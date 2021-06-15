@@ -28,49 +28,50 @@ namespace STAN.Client {
             "aWVudElEGAEgASgJEgwKBGd1aWQYAiABKAkSDwoHc3ViamVjdBgDIAEoCRIN",
             "CgVyZXBseRgEIAEoCRIMCgRkYXRhGAUgASgMEg4KBmNvbm5JRBgGIAEoDBIO",
             "CgZzaGEyNTYYCiABKAwiJQoGUHViQWNrEgwKBGd1aWQYASABKAkSDQoFZXJy",
-            "b3IYAiABKAkigQEKCE1zZ1Byb3RvEhAKCHNlcXVlbmNlGAEgASgEEg8KB3N1",
+            "b3IYAiABKAkimgEKCE1zZ1Byb3RvEhAKCHNlcXVlbmNlGAEgASgEEg8KB3N1",
             "YmplY3QYAiABKAkSDQoFcmVwbHkYAyABKAkSDAoEZGF0YRgEIAEoDBIRCgl0",
-            "aW1lc3RhbXAYBSABKAMSEwoLcmVkZWxpdmVyZWQYBiABKAgSDQoFQ1JDMzIY",
-            "CiABKA0iKAoDQWNrEg8KB3N1YmplY3QYASABKAkSEAoIc2VxdWVuY2UYAiAB",
-            "KAQihgEKDkNvbm5lY3RSZXF1ZXN0EhAKCGNsaWVudElEGAEgASgJEhYKDmhl",
-            "YXJ0YmVhdEluYm94GAIgASgJEhAKCHByb3RvY29sGAMgASgFEg4KBmNvbm5J",
-            "RBgEIAEoDBIUCgxwaW5nSW50ZXJ2YWwYBSABKAUSEgoKcGluZ01heE91dBgG",
-            "IAEoBSL1AQoPQ29ubmVjdFJlc3BvbnNlEhEKCXB1YlByZWZpeBgBIAEoCRIT",
-            "CgtzdWJSZXF1ZXN0cxgCIAEoCRIVCg11bnN1YlJlcXVlc3RzGAMgASgJEhUK",
-            "DWNsb3NlUmVxdWVzdHMYBCABKAkSDQoFZXJyb3IYBSABKAkSGAoQc3ViQ2xv",
-            "c2VSZXF1ZXN0cxgGIAEoCRIUCgxwaW5nUmVxdWVzdHMYByABKAkSFAoMcGlu",
-            "Z0ludGVydmFsGAggASgFEhIKCnBpbmdNYXhPdXQYCSABKAUSEAoIcHJvdG9j",
-            "b2wYCiABKAUSEQoJcHVibGljS2V5GGQgASgJIhYKBFBpbmcSDgoGY29ubklE",
-            "GAEgASgMIh0KDFBpbmdSZXNwb25zZRINCgVlcnJvchgBIAEoCSL6AQoTU3Vi",
-            "c2NyaXB0aW9uUmVxdWVzdBIQCghjbGllbnRJRBgBIAEoCRIPCgdzdWJqZWN0",
-            "GAIgASgJEg4KBnFHcm91cBgDIAEoCRINCgVpbmJveBgEIAEoCRITCgttYXhJ",
-            "bkZsaWdodBgFIAEoBRIVCg1hY2tXYWl0SW5TZWNzGAYgASgFEhMKC2R1cmFi",
-            "bGVOYW1lGAcgASgJEjEKDXN0YXJ0UG9zaXRpb24YCiABKA4yGi5TVEFOLkNs",
-            "aWVudC5TdGFydFBvc2l0aW9uEhUKDXN0YXJ0U2VxdWVuY2UYCyABKAQSFgoO",
-            "c3RhcnRUaW1lRGVsdGEYDCABKAMiNwoUU3Vic2NyaXB0aW9uUmVzcG9uc2US",
-            "EAoIYWNrSW5ib3gYAiABKAkSDQoFZXJyb3IYAyABKAkiWwoSVW5zdWJzY3Jp",
-            "YmVSZXF1ZXN0EhAKCGNsaWVudElEGAEgASgJEg8KB3N1YmplY3QYAiABKAkS",
-            "DQoFaW5ib3gYAyABKAkSEwoLZHVyYWJsZU5hbWUYBCABKAkiIAoMQ2xvc2VS",
-            "ZXF1ZXN0EhAKCGNsaWVudElEGAEgASgJIh4KDUNsb3NlUmVzcG9uc2USDQoF",
-            "ZXJyb3IYASABKAkqYAoNU3RhcnRQb3NpdGlvbhILCgdOZXdPbmx5EAASEAoM",
-            "TGFzdFJlY2VpdmVkEAESEgoOVGltZURlbHRhU3RhcnQQAhIRCg1TZXF1ZW5j",
-            "ZVN0YXJ0EAMSCQoFRmlyc3QQBGIGcHJvdG8z"));
+            "aW1lc3RhbXAYBSABKAMSEwoLcmVkZWxpdmVyZWQYBiABKAgSFwoPcmVkZWxp",
+            "dmVyeUNvdW50GAcgASgNEg0KBUNSQzMyGAogASgNIigKA0FjaxIPCgdzdWJq",
+            "ZWN0GAEgASgJEhAKCHNlcXVlbmNlGAIgASgEIoYBCg5Db25uZWN0UmVxdWVz",
+            "dBIQCghjbGllbnRJRBgBIAEoCRIWCg5oZWFydGJlYXRJbmJveBgCIAEoCRIQ",
+            "Cghwcm90b2NvbBgDIAEoBRIOCgZjb25uSUQYBCABKAwSFAoMcGluZ0ludGVy",
+            "dmFsGAUgASgFEhIKCnBpbmdNYXhPdXQYBiABKAUi9QEKD0Nvbm5lY3RSZXNw",
+            "b25zZRIRCglwdWJQcmVmaXgYASABKAkSEwoLc3ViUmVxdWVzdHMYAiABKAkS",
+            "FQoNdW5zdWJSZXF1ZXN0cxgDIAEoCRIVCg1jbG9zZVJlcXVlc3RzGAQgASgJ",
+            "Eg0KBWVycm9yGAUgASgJEhgKEHN1YkNsb3NlUmVxdWVzdHMYBiABKAkSFAoM",
+            "cGluZ1JlcXVlc3RzGAcgASgJEhQKDHBpbmdJbnRlcnZhbBgIIAEoBRISCgpw",
+            "aW5nTWF4T3V0GAkgASgFEhAKCHByb3RvY29sGAogASgFEhEKCXB1YmxpY0tl",
+            "eRhkIAEoCSIWCgRQaW5nEg4KBmNvbm5JRBgBIAEoDCIdCgxQaW5nUmVzcG9u",
+            "c2USDQoFZXJyb3IYASABKAki+gEKE1N1YnNjcmlwdGlvblJlcXVlc3QSEAoI",
+            "Y2xpZW50SUQYASABKAkSDwoHc3ViamVjdBgCIAEoCRIOCgZxR3JvdXAYAyAB",
+            "KAkSDQoFaW5ib3gYBCABKAkSEwoLbWF4SW5GbGlnaHQYBSABKAUSFQoNYWNr",
+            "V2FpdEluU2VjcxgGIAEoBRITCgtkdXJhYmxlTmFtZRgHIAEoCRIxCg1zdGFy",
+            "dFBvc2l0aW9uGAogASgOMhouU1RBTi5DbGllbnQuU3RhcnRQb3NpdGlvbhIV",
+            "Cg1zdGFydFNlcXVlbmNlGAsgASgEEhYKDnN0YXJ0VGltZURlbHRhGAwgASgD",
+            "IjcKFFN1YnNjcmlwdGlvblJlc3BvbnNlEhAKCGFja0luYm94GAIgASgJEg0K",
+            "BWVycm9yGAMgASgJIlsKElVuc3Vic2NyaWJlUmVxdWVzdBIQCghjbGllbnRJ",
+            "RBgBIAEoCRIPCgdzdWJqZWN0GAIgASgJEg0KBWluYm94GAMgASgJEhMKC2R1",
+            "cmFibGVOYW1lGAQgASgJIiAKDENsb3NlUmVxdWVzdBIQCghjbGllbnRJRBgB",
+            "IAEoCSIeCg1DbG9zZVJlc3BvbnNlEg0KBWVycm9yGAEgASgJKmAKDVN0YXJ0",
+            "UG9zaXRpb24SCwoHTmV3T25seRAAEhAKDExhc3RSZWNlaXZlZBABEhIKDlRp",
+            "bWVEZWx0YVN0YXJ0EAISEQoNU2VxdWVuY2VTdGFydBADEgkKBUZpcnN0EARi",
+            "BnByb3RvMw=="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { },
-          new pbr::GeneratedClrTypeInfo(new[] {typeof(global::STAN.Client.StartPosition), }, new pbr::GeneratedClrTypeInfo[] {
-            new pbr::GeneratedClrTypeInfo(typeof(global::STAN.Client.PubMsg), global::STAN.Client.PubMsg.Parser, new[]{ "ClientID", "Guid", "Subject", "Reply", "Data", "ConnID", "Sha256" }, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::STAN.Client.PubAck), global::STAN.Client.PubAck.Parser, new[]{ "Guid", "Error" }, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::STAN.Client.MsgProto), global::STAN.Client.MsgProto.Parser, new[]{ "Sequence", "Subject", "Reply", "Data", "Timestamp", "Redelivered", "CRC32" }, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::STAN.Client.Ack), global::STAN.Client.Ack.Parser, new[]{ "Subject", "Sequence" }, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::STAN.Client.ConnectRequest), global::STAN.Client.ConnectRequest.Parser, new[]{ "ClientID", "HeartbeatInbox", "Protocol", "ConnID", "PingInterval", "PingMaxOut" }, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::STAN.Client.ConnectResponse), global::STAN.Client.ConnectResponse.Parser, new[]{ "PubPrefix", "SubRequests", "UnsubRequests", "CloseRequests", "Error", "SubCloseRequests", "PingRequests", "PingInterval", "PingMaxOut", "Protocol", "PublicKey" }, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::STAN.Client.Ping), global::STAN.Client.Ping.Parser, new[]{ "ConnID" }, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::STAN.Client.PingResponse), global::STAN.Client.PingResponse.Parser, new[]{ "Error" }, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::STAN.Client.SubscriptionRequest), global::STAN.Client.SubscriptionRequest.Parser, new[]{ "ClientID", "Subject", "QGroup", "Inbox", "MaxInFlight", "AckWaitInSecs", "DurableName", "StartPosition", "StartSequence", "StartTimeDelta" }, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::STAN.Client.SubscriptionResponse), global::STAN.Client.SubscriptionResponse.Parser, new[]{ "AckInbox", "Error" }, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::STAN.Client.UnsubscribeRequest), global::STAN.Client.UnsubscribeRequest.Parser, new[]{ "ClientID", "Subject", "Inbox", "DurableName" }, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::STAN.Client.CloseRequest), global::STAN.Client.CloseRequest.Parser, new[]{ "ClientID" }, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::STAN.Client.CloseResponse), global::STAN.Client.CloseResponse.Parser, new[]{ "Error" }, null, null, null)
+          new pbr::GeneratedClrTypeInfo(new[] {typeof(global::STAN.Client.StartPosition), }, null, new pbr::GeneratedClrTypeInfo[] {
+            new pbr::GeneratedClrTypeInfo(typeof(global::STAN.Client.PubMsg), global::STAN.Client.PubMsg.Parser, new[]{ "ClientID", "Guid", "Subject", "Reply", "Data", "ConnID", "Sha256" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::STAN.Client.PubAck), global::STAN.Client.PubAck.Parser, new[]{ "Guid", "Error" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::STAN.Client.MsgProto), global::STAN.Client.MsgProto.Parser, new[]{ "Sequence", "Subject", "Reply", "Data", "Timestamp", "Redelivered", "RedeliveryCount", "CRC32" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::STAN.Client.Ack), global::STAN.Client.Ack.Parser, new[]{ "Subject", "Sequence" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::STAN.Client.ConnectRequest), global::STAN.Client.ConnectRequest.Parser, new[]{ "ClientID", "HeartbeatInbox", "Protocol", "ConnID", "PingInterval", "PingMaxOut" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::STAN.Client.ConnectResponse), global::STAN.Client.ConnectResponse.Parser, new[]{ "PubPrefix", "SubRequests", "UnsubRequests", "CloseRequests", "Error", "SubCloseRequests", "PingRequests", "PingInterval", "PingMaxOut", "Protocol", "PublicKey" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::STAN.Client.Ping), global::STAN.Client.Ping.Parser, new[]{ "ConnID" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::STAN.Client.PingResponse), global::STAN.Client.PingResponse.Parser, new[]{ "Error" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::STAN.Client.SubscriptionRequest), global::STAN.Client.SubscriptionRequest.Parser, new[]{ "ClientID", "Subject", "QGroup", "Inbox", "MaxInFlight", "AckWaitInSecs", "DurableName", "StartPosition", "StartSequence", "StartTimeDelta" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::STAN.Client.SubscriptionResponse), global::STAN.Client.SubscriptionResponse.Parser, new[]{ "AckInbox", "Error" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::STAN.Client.UnsubscribeRequest), global::STAN.Client.UnsubscribeRequest.Parser, new[]{ "ClientID", "Subject", "Inbox", "DurableName" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::STAN.Client.CloseRequest), global::STAN.Client.CloseRequest.Parser, new[]{ "ClientID" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::STAN.Client.CloseResponse), global::STAN.Client.CloseResponse.Parser, new[]{ "Error" }, null, null, null, null)
           }));
     }
     #endregion
@@ -94,7 +95,11 @@ namespace STAN.Client {
   /// <summary>
   /// How messages are delivered to the STAN cluster
   /// </summary>
-  public sealed partial class PubMsg : pb::IMessage<PubMsg> {
+  public sealed partial class PubMsg : pb::IMessage<PubMsg>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<PubMsg> _parser = new pb::MessageParser<PubMsg>(() => new PubMsg());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -278,6 +283,9 @@ namespace STAN.Client {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (ClientID.Length != 0) {
         output.WriteRawTag(10);
         output.WriteString(ClientID);
@@ -309,7 +317,45 @@ namespace STAN.Client {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (ClientID.Length != 0) {
+        output.WriteRawTag(10);
+        output.WriteString(ClientID);
+      }
+      if (Guid.Length != 0) {
+        output.WriteRawTag(18);
+        output.WriteString(Guid);
+      }
+      if (Subject.Length != 0) {
+        output.WriteRawTag(26);
+        output.WriteString(Subject);
+      }
+      if (Reply.Length != 0) {
+        output.WriteRawTag(34);
+        output.WriteString(Reply);
+      }
+      if (Data.Length != 0) {
+        output.WriteRawTag(42);
+        output.WriteBytes(Data);
+      }
+      if (ConnID.Length != 0) {
+        output.WriteRawTag(50);
+        output.WriteBytes(ConnID);
+      }
+      if (Sha256.Length != 0) {
+        output.WriteRawTag(82);
+        output.WriteBytes(Sha256);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -372,6 +418,9 @@ namespace STAN.Client {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -408,14 +457,61 @@ namespace STAN.Client {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 10: {
+            ClientID = input.ReadString();
+            break;
+          }
+          case 18: {
+            Guid = input.ReadString();
+            break;
+          }
+          case 26: {
+            Subject = input.ReadString();
+            break;
+          }
+          case 34: {
+            Reply = input.ReadString();
+            break;
+          }
+          case 42: {
+            Data = input.ReadBytes();
+            break;
+          }
+          case 50: {
+            ConnID = input.ReadBytes();
+            break;
+          }
+          case 82: {
+            Sha256 = input.ReadBytes();
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
   /// <summary>
   /// Used to ACK to publishers
   /// </summary>
-  public sealed partial class PubAck : pb::IMessage<PubAck> {
+  public sealed partial class PubAck : pb::IMessage<PubAck>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<PubAck> _parser = new pb::MessageParser<PubAck>(() => new PubAck());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -514,6 +610,9 @@ namespace STAN.Client {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (Guid.Length != 0) {
         output.WriteRawTag(10);
         output.WriteString(Guid);
@@ -525,7 +624,25 @@ namespace STAN.Client {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (Guid.Length != 0) {
+        output.WriteRawTag(10);
+        output.WriteString(Guid);
+      }
+      if (Error.Length != 0) {
+        output.WriteRawTag(18);
+        output.WriteString(Error);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -558,6 +675,9 @@ namespace STAN.Client {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -574,7 +694,30 @@ namespace STAN.Client {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 10: {
+            Guid = input.ReadString();
+            break;
+          }
+          case 18: {
+            Error = input.ReadString();
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
@@ -582,7 +725,11 @@ namespace STAN.Client {
   /// Msg struct. Sequence is assigned for global ordering by
   /// the cluster after the publisher has been acknowledged.
   /// </summary>
-  public sealed partial class MsgProto : pb::IMessage<MsgProto> {
+  public sealed partial class MsgProto : pb::IMessage<MsgProto>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<MsgProto> _parser = new pb::MessageParser<MsgProto>(() => new MsgProto());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -613,6 +760,7 @@ namespace STAN.Client {
       data_ = other.data_;
       timestamp_ = other.timestamp_;
       redelivered_ = other.redelivered_;
+      redeliveryCount_ = other.redeliveryCount_;
       cRC32_ = other.cRC32_;
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
@@ -682,7 +830,7 @@ namespace STAN.Client {
     public const int TimestampFieldNumber = 5;
     private long timestamp_;
     /// <summary>
-    /// received timestamp
+    /// received timestamp: Unix time (number of nanoseconds elapsed since January 1, 1970 UTC)
     /// </summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public long Timestamp {
@@ -703,6 +851,20 @@ namespace STAN.Client {
       get { return redelivered_; }
       set {
         redelivered_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "redeliveryCount" field.</summary>
+    public const int RedeliveryCountFieldNumber = 7;
+    private uint redeliveryCount_;
+    /// <summary>
+    /// Number of times the message has been redelivered (count currently not persisted)
+    /// </summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public uint RedeliveryCount {
+      get { return redeliveryCount_; }
+      set {
+        redeliveryCount_ = value;
       }
     }
 
@@ -739,6 +901,7 @@ namespace STAN.Client {
       if (Data != other.Data) return false;
       if (Timestamp != other.Timestamp) return false;
       if (Redelivered != other.Redelivered) return false;
+      if (RedeliveryCount != other.RedeliveryCount) return false;
       if (CRC32 != other.CRC32) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
@@ -752,6 +915,7 @@ namespace STAN.Client {
       if (Data.Length != 0) hash ^= Data.GetHashCode();
       if (Timestamp != 0L) hash ^= Timestamp.GetHashCode();
       if (Redelivered != false) hash ^= Redelivered.GetHashCode();
+      if (RedeliveryCount != 0) hash ^= RedeliveryCount.GetHashCode();
       if (CRC32 != 0) hash ^= CRC32.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
@@ -766,6 +930,9 @@ namespace STAN.Client {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (Sequence != 0UL) {
         output.WriteRawTag(8);
         output.WriteUInt64(Sequence);
@@ -790,6 +957,10 @@ namespace STAN.Client {
         output.WriteRawTag(48);
         output.WriteBool(Redelivered);
       }
+      if (RedeliveryCount != 0) {
+        output.WriteRawTag(56);
+        output.WriteUInt32(RedeliveryCount);
+      }
       if (CRC32 != 0) {
         output.WriteRawTag(80);
         output.WriteUInt32(CRC32);
@@ -797,7 +968,49 @@ namespace STAN.Client {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (Sequence != 0UL) {
+        output.WriteRawTag(8);
+        output.WriteUInt64(Sequence);
+      }
+      if (Subject.Length != 0) {
+        output.WriteRawTag(18);
+        output.WriteString(Subject);
+      }
+      if (Reply.Length != 0) {
+        output.WriteRawTag(26);
+        output.WriteString(Reply);
+      }
+      if (Data.Length != 0) {
+        output.WriteRawTag(34);
+        output.WriteBytes(Data);
+      }
+      if (Timestamp != 0L) {
+        output.WriteRawTag(40);
+        output.WriteInt64(Timestamp);
+      }
+      if (Redelivered != false) {
+        output.WriteRawTag(48);
+        output.WriteBool(Redelivered);
+      }
+      if (RedeliveryCount != 0) {
+        output.WriteRawTag(56);
+        output.WriteUInt32(RedeliveryCount);
+      }
+      if (CRC32 != 0) {
+        output.WriteRawTag(80);
+        output.WriteUInt32(CRC32);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -819,6 +1032,9 @@ namespace STAN.Client {
       }
       if (Redelivered != false) {
         size += 1 + 1;
+      }
+      if (RedeliveryCount != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeUInt32Size(RedeliveryCount);
       }
       if (CRC32 != 0) {
         size += 1 + pb::CodedOutputStream.ComputeUInt32Size(CRC32);
@@ -852,6 +1068,9 @@ namespace STAN.Client {
       if (other.Redelivered != false) {
         Redelivered = other.Redelivered;
       }
+      if (other.RedeliveryCount != 0) {
+        RedeliveryCount = other.RedeliveryCount;
+      }
       if (other.CRC32 != 0) {
         CRC32 = other.CRC32;
       }
@@ -860,6 +1079,9 @@ namespace STAN.Client {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -890,6 +1112,56 @@ namespace STAN.Client {
             Redelivered = input.ReadBool();
             break;
           }
+          case 56: {
+            RedeliveryCount = input.ReadUInt32();
+            break;
+          }
+          case 80: {
+            CRC32 = input.ReadUInt32();
+            break;
+          }
+        }
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 8: {
+            Sequence = input.ReadUInt64();
+            break;
+          }
+          case 18: {
+            Subject = input.ReadString();
+            break;
+          }
+          case 26: {
+            Reply = input.ReadString();
+            break;
+          }
+          case 34: {
+            Data = input.ReadBytes();
+            break;
+          }
+          case 40: {
+            Timestamp = input.ReadInt64();
+            break;
+          }
+          case 48: {
+            Redelivered = input.ReadBool();
+            break;
+          }
+          case 56: {
+            RedeliveryCount = input.ReadUInt32();
+            break;
+          }
           case 80: {
             CRC32 = input.ReadUInt32();
             break;
@@ -897,13 +1169,18 @@ namespace STAN.Client {
         }
       }
     }
+    #endif
 
   }
 
   /// <summary>
   /// Ack will deliver an ack for a delivered msg.
   /// </summary>
-  public sealed partial class Ack : pb::IMessage<Ack> {
+  public sealed partial class Ack : pb::IMessage<Ack>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<Ack> _parser = new pb::MessageParser<Ack>(() => new Ack());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -1002,6 +1279,9 @@ namespace STAN.Client {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (Subject.Length != 0) {
         output.WriteRawTag(10);
         output.WriteString(Subject);
@@ -1013,7 +1293,25 @@ namespace STAN.Client {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (Subject.Length != 0) {
+        output.WriteRawTag(10);
+        output.WriteString(Subject);
+      }
+      if (Sequence != 0UL) {
+        output.WriteRawTag(16);
+        output.WriteUInt64(Sequence);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -1046,6 +1344,9 @@ namespace STAN.Client {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -1062,14 +1363,41 @@ namespace STAN.Client {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 10: {
+            Subject = input.ReadString();
+            break;
+          }
+          case 16: {
+            Sequence = input.ReadUInt64();
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
   /// <summary>
   /// Connection Request
   /// </summary>
-  public sealed partial class ConnectRequest : pb::IMessage<ConnectRequest> {
+  public sealed partial class ConnectRequest : pb::IMessage<ConnectRequest>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<ConnectRequest> _parser = new pb::MessageParser<ConnectRequest>(() => new ConnectRequest());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -1236,6 +1564,9 @@ namespace STAN.Client {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (ClientID.Length != 0) {
         output.WriteRawTag(10);
         output.WriteString(ClientID);
@@ -1263,7 +1594,41 @@ namespace STAN.Client {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (ClientID.Length != 0) {
+        output.WriteRawTag(10);
+        output.WriteString(ClientID);
+      }
+      if (HeartbeatInbox.Length != 0) {
+        output.WriteRawTag(18);
+        output.WriteString(HeartbeatInbox);
+      }
+      if (Protocol != 0) {
+        output.WriteRawTag(24);
+        output.WriteInt32(Protocol);
+      }
+      if (ConnID.Length != 0) {
+        output.WriteRawTag(34);
+        output.WriteBytes(ConnID);
+      }
+      if (PingInterval != 0) {
+        output.WriteRawTag(40);
+        output.WriteInt32(PingInterval);
+      }
+      if (PingMaxOut != 0) {
+        output.WriteRawTag(48);
+        output.WriteInt32(PingMaxOut);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -1320,6 +1685,9 @@ namespace STAN.Client {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -1352,14 +1720,57 @@ namespace STAN.Client {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 10: {
+            ClientID = input.ReadString();
+            break;
+          }
+          case 18: {
+            HeartbeatInbox = input.ReadString();
+            break;
+          }
+          case 24: {
+            Protocol = input.ReadInt32();
+            break;
+          }
+          case 34: {
+            ConnID = input.ReadBytes();
+            break;
+          }
+          case 40: {
+            PingInterval = input.ReadInt32();
+            break;
+          }
+          case 48: {
+            PingMaxOut = input.ReadInt32();
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
   /// <summary>
   /// Response to a client connect
   /// </summary>
-  public sealed partial class ConnectResponse : pb::IMessage<ConnectResponse> {
+  public sealed partial class ConnectResponse : pb::IMessage<ConnectResponse>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<ConnectResponse> _parser = new pb::MessageParser<ConnectResponse>(() => new ConnectResponse());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -1611,6 +2022,9 @@ namespace STAN.Client {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (PubPrefix.Length != 0) {
         output.WriteRawTag(10);
         output.WriteString(PubPrefix);
@@ -1658,7 +2072,61 @@ namespace STAN.Client {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (PubPrefix.Length != 0) {
+        output.WriteRawTag(10);
+        output.WriteString(PubPrefix);
+      }
+      if (SubRequests.Length != 0) {
+        output.WriteRawTag(18);
+        output.WriteString(SubRequests);
+      }
+      if (UnsubRequests.Length != 0) {
+        output.WriteRawTag(26);
+        output.WriteString(UnsubRequests);
+      }
+      if (CloseRequests.Length != 0) {
+        output.WriteRawTag(34);
+        output.WriteString(CloseRequests);
+      }
+      if (Error.Length != 0) {
+        output.WriteRawTag(42);
+        output.WriteString(Error);
+      }
+      if (SubCloseRequests.Length != 0) {
+        output.WriteRawTag(50);
+        output.WriteString(SubCloseRequests);
+      }
+      if (PingRequests.Length != 0) {
+        output.WriteRawTag(58);
+        output.WriteString(PingRequests);
+      }
+      if (PingInterval != 0) {
+        output.WriteRawTag(64);
+        output.WriteInt32(PingInterval);
+      }
+      if (PingMaxOut != 0) {
+        output.WriteRawTag(72);
+        output.WriteInt32(PingMaxOut);
+      }
+      if (Protocol != 0) {
+        output.WriteRawTag(80);
+        output.WriteInt32(Protocol);
+      }
+      if (PublicKey.Length != 0) {
+        output.WriteRawTag(162, 6);
+        output.WriteString(PublicKey);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -1745,6 +2213,9 @@ namespace STAN.Client {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -1797,14 +2268,77 @@ namespace STAN.Client {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 10: {
+            PubPrefix = input.ReadString();
+            break;
+          }
+          case 18: {
+            SubRequests = input.ReadString();
+            break;
+          }
+          case 26: {
+            UnsubRequests = input.ReadString();
+            break;
+          }
+          case 34: {
+            CloseRequests = input.ReadString();
+            break;
+          }
+          case 42: {
+            Error = input.ReadString();
+            break;
+          }
+          case 50: {
+            SubCloseRequests = input.ReadString();
+            break;
+          }
+          case 58: {
+            PingRequests = input.ReadString();
+            break;
+          }
+          case 64: {
+            PingInterval = input.ReadInt32();
+            break;
+          }
+          case 72: {
+            PingMaxOut = input.ReadInt32();
+            break;
+          }
+          case 80: {
+            Protocol = input.ReadInt32();
+            break;
+          }
+          case 802: {
+            PublicKey = input.ReadString();
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
   /// <summary>
   /// PING from client to server
   /// </summary>
-  public sealed partial class Ping : pb::IMessage<Ping> {
+  public sealed partial class Ping : pb::IMessage<Ping>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<Ping> _parser = new pb::MessageParser<Ping>(() => new Ping());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -1886,6 +2420,9 @@ namespace STAN.Client {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (ConnID.Length != 0) {
         output.WriteRawTag(10);
         output.WriteBytes(ConnID);
@@ -1893,7 +2430,21 @@ namespace STAN.Client {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (ConnID.Length != 0) {
+        output.WriteRawTag(10);
+        output.WriteBytes(ConnID);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -1920,6 +2471,9 @@ namespace STAN.Client {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -1932,14 +2486,37 @@ namespace STAN.Client {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 10: {
+            ConnID = input.ReadBytes();
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
   /// <summary>
   /// PING response from the server
   /// </summary>
-  public sealed partial class PingResponse : pb::IMessage<PingResponse> {
+  public sealed partial class PingResponse : pb::IMessage<PingResponse>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<PingResponse> _parser = new pb::MessageParser<PingResponse>(() => new PingResponse());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -2021,6 +2598,9 @@ namespace STAN.Client {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (Error.Length != 0) {
         output.WriteRawTag(10);
         output.WriteString(Error);
@@ -2028,7 +2608,21 @@ namespace STAN.Client {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (Error.Length != 0) {
+        output.WriteRawTag(10);
+        output.WriteString(Error);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -2055,6 +2649,9 @@ namespace STAN.Client {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -2067,14 +2664,37 @@ namespace STAN.Client {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 10: {
+            Error = input.ReadString();
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
   /// <summary>
   /// Protocol for a client to subscribe
   /// </summary>
-  public sealed partial class SubscriptionRequest : pb::IMessage<SubscriptionRequest> {
+  public sealed partial class SubscriptionRequest : pb::IMessage<SubscriptionRequest>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<SubscriptionRequest> _parser = new pb::MessageParser<SubscriptionRequest>(() => new SubscriptionRequest());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -2217,7 +2837,7 @@ namespace STAN.Client {
 
     /// <summary>Field number for the "startPosition" field.</summary>
     public const int StartPositionFieldNumber = 10;
-    private global::STAN.Client.StartPosition startPosition_ = 0;
+    private global::STAN.Client.StartPosition startPosition_ = global::STAN.Client.StartPosition.NewOnly;
     /// <summary>
     /// Start position
     /// </summary>
@@ -2293,7 +2913,7 @@ namespace STAN.Client {
       if (MaxInFlight != 0) hash ^= MaxInFlight.GetHashCode();
       if (AckWaitInSecs != 0) hash ^= AckWaitInSecs.GetHashCode();
       if (DurableName.Length != 0) hash ^= DurableName.GetHashCode();
-      if (StartPosition != 0) hash ^= StartPosition.GetHashCode();
+      if (StartPosition != global::STAN.Client.StartPosition.NewOnly) hash ^= StartPosition.GetHashCode();
       if (StartSequence != 0UL) hash ^= StartSequence.GetHashCode();
       if (StartTimeDelta != 0L) hash ^= StartTimeDelta.GetHashCode();
       if (_unknownFields != null) {
@@ -2309,6 +2929,9 @@ namespace STAN.Client {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (ClientID.Length != 0) {
         output.WriteRawTag(10);
         output.WriteString(ClientID);
@@ -2337,7 +2960,7 @@ namespace STAN.Client {
         output.WriteRawTag(58);
         output.WriteString(DurableName);
       }
-      if (StartPosition != 0) {
+      if (StartPosition != global::STAN.Client.StartPosition.NewOnly) {
         output.WriteRawTag(80);
         output.WriteEnum((int) StartPosition);
       }
@@ -2352,7 +2975,57 @@ namespace STAN.Client {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (ClientID.Length != 0) {
+        output.WriteRawTag(10);
+        output.WriteString(ClientID);
+      }
+      if (Subject.Length != 0) {
+        output.WriteRawTag(18);
+        output.WriteString(Subject);
+      }
+      if (QGroup.Length != 0) {
+        output.WriteRawTag(26);
+        output.WriteString(QGroup);
+      }
+      if (Inbox.Length != 0) {
+        output.WriteRawTag(34);
+        output.WriteString(Inbox);
+      }
+      if (MaxInFlight != 0) {
+        output.WriteRawTag(40);
+        output.WriteInt32(MaxInFlight);
+      }
+      if (AckWaitInSecs != 0) {
+        output.WriteRawTag(48);
+        output.WriteInt32(AckWaitInSecs);
+      }
+      if (DurableName.Length != 0) {
+        output.WriteRawTag(58);
+        output.WriteString(DurableName);
+      }
+      if (StartPosition != global::STAN.Client.StartPosition.NewOnly) {
+        output.WriteRawTag(80);
+        output.WriteEnum((int) StartPosition);
+      }
+      if (StartSequence != 0UL) {
+        output.WriteRawTag(88);
+        output.WriteUInt64(StartSequence);
+      }
+      if (StartTimeDelta != 0L) {
+        output.WriteRawTag(96);
+        output.WriteInt64(StartTimeDelta);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -2378,7 +3051,7 @@ namespace STAN.Client {
       if (DurableName.Length != 0) {
         size += 1 + pb::CodedOutputStream.ComputeStringSize(DurableName);
       }
-      if (StartPosition != 0) {
+      if (StartPosition != global::STAN.Client.StartPosition.NewOnly) {
         size += 1 + pb::CodedOutputStream.ComputeEnumSize((int) StartPosition);
       }
       if (StartSequence != 0UL) {
@@ -2419,7 +3092,7 @@ namespace STAN.Client {
       if (other.DurableName.Length != 0) {
         DurableName = other.DurableName;
       }
-      if (other.StartPosition != 0) {
+      if (other.StartPosition != global::STAN.Client.StartPosition.NewOnly) {
         StartPosition = other.StartPosition;
       }
       if (other.StartSequence != 0UL) {
@@ -2433,6 +3106,9 @@ namespace STAN.Client {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -2481,14 +3157,73 @@ namespace STAN.Client {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 10: {
+            ClientID = input.ReadString();
+            break;
+          }
+          case 18: {
+            Subject = input.ReadString();
+            break;
+          }
+          case 26: {
+            QGroup = input.ReadString();
+            break;
+          }
+          case 34: {
+            Inbox = input.ReadString();
+            break;
+          }
+          case 40: {
+            MaxInFlight = input.ReadInt32();
+            break;
+          }
+          case 48: {
+            AckWaitInSecs = input.ReadInt32();
+            break;
+          }
+          case 58: {
+            DurableName = input.ReadString();
+            break;
+          }
+          case 80: {
+            StartPosition = (global::STAN.Client.StartPosition) input.ReadEnum();
+            break;
+          }
+          case 88: {
+            StartSequence = input.ReadUInt64();
+            break;
+          }
+          case 96: {
+            StartTimeDelta = input.ReadInt64();
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
   /// <summary>
   /// Response for SubscriptionRequest and UnsubscribeRequests
   /// </summary>
-  public sealed partial class SubscriptionResponse : pb::IMessage<SubscriptionResponse> {
+  public sealed partial class SubscriptionResponse : pb::IMessage<SubscriptionResponse>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<SubscriptionResponse> _parser = new pb::MessageParser<SubscriptionResponse>(() => new SubscriptionResponse());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -2587,6 +3322,9 @@ namespace STAN.Client {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (AckInbox.Length != 0) {
         output.WriteRawTag(18);
         output.WriteString(AckInbox);
@@ -2598,7 +3336,25 @@ namespace STAN.Client {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (AckInbox.Length != 0) {
+        output.WriteRawTag(18);
+        output.WriteString(AckInbox);
+      }
+      if (Error.Length != 0) {
+        output.WriteRawTag(26);
+        output.WriteString(Error);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -2631,6 +3387,9 @@ namespace STAN.Client {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -2647,14 +3406,41 @@ namespace STAN.Client {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 18: {
+            AckInbox = input.ReadString();
+            break;
+          }
+          case 26: {
+            Error = input.ReadString();
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
   /// <summary>
   /// Protocol for a clients to unsubscribe. Will return a SubscriptionResponse
   /// </summary>
-  public sealed partial class UnsubscribeRequest : pb::IMessage<UnsubscribeRequest> {
+  public sealed partial class UnsubscribeRequest : pb::IMessage<UnsubscribeRequest>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<UnsubscribeRequest> _parser = new pb::MessageParser<UnsubscribeRequest>(() => new UnsubscribeRequest());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -2787,6 +3573,9 @@ namespace STAN.Client {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (ClientID.Length != 0) {
         output.WriteRawTag(10);
         output.WriteString(ClientID);
@@ -2806,7 +3595,33 @@ namespace STAN.Client {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (ClientID.Length != 0) {
+        output.WriteRawTag(10);
+        output.WriteString(ClientID);
+      }
+      if (Subject.Length != 0) {
+        output.WriteRawTag(18);
+        output.WriteString(Subject);
+      }
+      if (Inbox.Length != 0) {
+        output.WriteRawTag(26);
+        output.WriteString(Inbox);
+      }
+      if (DurableName.Length != 0) {
+        output.WriteRawTag(34);
+        output.WriteString(DurableName);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -2851,6 +3666,9 @@ namespace STAN.Client {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -2875,14 +3693,49 @@ namespace STAN.Client {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 10: {
+            ClientID = input.ReadString();
+            break;
+          }
+          case 18: {
+            Subject = input.ReadString();
+            break;
+          }
+          case 26: {
+            Inbox = input.ReadString();
+            break;
+          }
+          case 34: {
+            DurableName = input.ReadString();
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
   /// <summary>
   /// Protocol for a client to close a connection
   /// </summary>
-  public sealed partial class CloseRequest : pb::IMessage<CloseRequest> {
+  public sealed partial class CloseRequest : pb::IMessage<CloseRequest>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<CloseRequest> _parser = new pb::MessageParser<CloseRequest>(() => new CloseRequest());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -2964,6 +3817,9 @@ namespace STAN.Client {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (ClientID.Length != 0) {
         output.WriteRawTag(10);
         output.WriteString(ClientID);
@@ -2971,7 +3827,21 @@ namespace STAN.Client {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (ClientID.Length != 0) {
+        output.WriteRawTag(10);
+        output.WriteString(ClientID);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -2998,6 +3868,9 @@ namespace STAN.Client {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -3010,14 +3883,37 @@ namespace STAN.Client {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 10: {
+            ClientID = input.ReadString();
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 
   /// <summary>
   /// Response for CloseRequest
   /// </summary>
-  public sealed partial class CloseResponse : pb::IMessage<CloseResponse> {
+  public sealed partial class CloseResponse : pb::IMessage<CloseResponse>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
     private static readonly pb::MessageParser<CloseResponse> _parser = new pb::MessageParser<CloseResponse>(() => new CloseResponse());
     private pb::UnknownFieldSet _unknownFields;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -3099,6 +3995,9 @@ namespace STAN.Client {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
       if (Error.Length != 0) {
         output.WriteRawTag(10);
         output.WriteString(Error);
@@ -3106,7 +4005,21 @@ namespace STAN.Client {
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (Error.Length != 0) {
+        output.WriteRawTag(10);
+        output.WriteString(Error);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
@@ -3133,6 +4046,9 @@ namespace STAN.Client {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
       uint tag;
       while ((tag = input.ReadTag()) != 0) {
         switch(tag) {
@@ -3145,7 +4061,26 @@ namespace STAN.Client {
           }
         }
       }
+    #endif
     }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 10: {
+            Error = input.ReadString();
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 

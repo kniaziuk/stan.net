@@ -1937,7 +1937,7 @@ namespace IntegrationTests
         {
             var mhArgs = new StanMsgHandlerArgs(
                 System.Text.Encoding.UTF8.GetBytes("N"),
-                true, "foo", 10000, 999999, null);
+                true, 1, "foo", 10000, 999999, null);
 
             EventHandler<StanMsgHandlerArgs> eh = (obj, args) =>
             {
@@ -1945,6 +1945,7 @@ namespace IntegrationTests
                 Assert.True(m != null);
                 Assert.True(m.Data[0] == (byte)'N');
                 Assert.True(m.Redelivered == true);
+                Assert.True(1 == m.RedeliveryCount);
                 Assert.Equal("foo", m.Subject);
                 Assert.Equal(10000, m.Time);
                 Assert.True(999999 == m.Sequence);
@@ -1953,10 +1954,11 @@ namespace IntegrationTests
 
             StanMsg msg = new StanMsg(
                 System.Text.Encoding.UTF8.GetBytes("N"),
-                true, "foo", 10000, 999999, null);
+                true, 1, "foo", 10000, 999999, null);
             Assert.True(msg != null);
             Assert.True(msg.Data[0] == (byte)'N');
             Assert.True(msg.Redelivered == true);
+            Assert.True(1 == msg.RedeliveryCount);
             Assert.Equal("foo", msg.Subject);
             Assert.Equal(10000, msg.Time);
             Assert.True(999999 == msg.Sequence);
